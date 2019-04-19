@@ -1,0 +1,30 @@
+[[source]]
+url = "https://nexus.brandwatch.net/repository/pypi-all/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+jupyter = "*"
+requests = "*"
+"beautifulsoup4" = "*"
+pandas = "*"
+xlrd = "*"
+openpyxl = "*"
+pathlib = "*"
+plotly = "*"
+statsmodels = "*"
+scipy = "*"
+numpy = "*"
+becoming-brandwatch = "*"
+bwapi = "*"
+matplotlib = "*"
+sklearn = "*"
+tqdm = "*"
+twitter = "*"
+more-itertools = "*"
+"pypdf2" = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"

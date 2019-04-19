@@ -1,0 +1,422 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="22" rtRtpiFeedName="" rtdd="22"> <!-- @11 @16 -->
+
+		<time>5:28 PM</time>
+
+
+		<bus>
+			<id>4162</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>22</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>22</rtdd>  
+			
+			<d>East Bound</d>
+			<dd>Northbound</dd> 
+			<dn>ENE</dn> 
+			<lat>41.872257232666016</lat>
+			<lon>-87.62930297851562</lon>
+			<pid>3932</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P213</run>
+			<fs>Howard</fs>
+			<op>58343</op>
+			<dip>978</dip>
+			<bid>3642</bid>				
+			<wid1>0P</wid1>
+			<wid2>213</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4368</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>22</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>22</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>42.011061002130376</lat>
+			<lon>-87.67442259069992</lon>
+			<pid>3936</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P218</run>
+			<fs>Harrison</fs>
+			<op>40826</op>
+			<dip>4214</dip>
+			<bid>3637</bid>				
+			<wid1>0P</wid1>
+			<wid2>218</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4395</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>22</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>22</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.884527587890624</lat>
+			<lon>-87.62939758300782</lon>
+			<pid>3932</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P219</run>
+			<fs>Howard</fs>
+			<op>28677</op>
+			<dip>5503</dip>
+			<bid>3636</bid>				
+			<wid1>0P</wid1>
+			<wid2>219</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4330</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>22</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>22</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.903497009277345</lat>
+			<lon>-87.63130096435548</lon>
+			<pid>3932</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P214</run>
+			<fs>Howard</fs>
+			<op>58506</op>
+			<dip>12790</dip>
+			<bid>3635</bid>				
+			<wid1>0P</wid1>
+			<wid2>214</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4078</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>22</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>22</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.911252127753365</lat>
+			<lon>-87.63160705566406</lon>
+			<pid>3932</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P082</run>
+			<fs>Howard</fs>
+			<op>59687</op>
+			<dip>15687</dip>
+			<bid>3641</bid>				
+			<wid1>0P</wid1>
+			<wid2>082</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4367</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>22</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>22</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.9735300881522</lat>
+			<lon>-87.6680908203125</lon>
+			<pid>3936</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P222</run>
+			<fs>Harrison</fs>
+			<op>58243</op>
+			<dip>18012</dip>
+			<bid>3684</bid>				
+			<wid1>0P</wid1>
+			<wid2>222</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4166</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>22</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>22</rtdd>  
+			
+			<d>South East Bound</d>
+			<dd>Southbound</dd> 
+			<dn>SE</dn> 
+			<lat>41.95255932441125</lat>
+			<lon>-87.66080430837778</lon>
+			<pid>3936</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P221</run>
+			<fs>Harrison</fs>
+			<op>36606</op>
+			<dip>25933</dip>
+			<bid>3639</bid>				
+			<wid1>0P</wid1>
+			<wid2>221</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4396</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>22</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>22</rtdd>  
+			
+			<d>North West Bound</d>
+			<dd>Northbound</dd> 
+			<dn>NNW</dn> 
+			<lat>41.938434065433974</lat>
+			<lon>-87.64934767338268</lon>
+			<pid>3932</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P273</run>
+			<fs>Howard</fs>
+			<op>60742</op>
+			<dip>26782</dip>
+			<bid>3645</bid>				
+			<wid1>0P</wid1>
+			<wid2>273</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4144</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>22</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>22</rtdd>  
+			
+			<d>North West Bound</d>
+			<dd>Northbound</dd> 
+			<dn>NNW</dn> 
+			<lat>41.95680541992188</lat>
+			<lon>-87.66370859781901</lon>
+			<pid>3932</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P212</run>
+			<fs>Howard</fs>
+			<op>1287</op>
+			<dip>34750</dip>
+			<bid>3633</bid>				
+			<wid1>0P</wid1>
+			<wid2>212</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4392</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>22</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>22</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>NNW</dn> 
+			<lat>41.959981135832955</lat>
+			<lon>-87.66531303601387</lon>
+			<pid>3932</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P276</run>
+			<fs>Howard</fs>
+			<op>45608</op>
+			<dip>36038</dip>
+			<bid>3634</bid>				
+			<wid1>0P</wid1>
+			<wid2>276</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4364</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>22</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>22</rtdd>  
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd> 
+			<dn>N</dn> 
+			<lat>41.98035158429827</lat>
+			<lon>-87.66837910243443</lon>
+			<pid>3932</pid>
+			<pd>Northbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P272</run>
+			<fs>Howard</fs>
+			<op>58050</op>
+			<dip>43540</dip>
+			<bid>3644</bid>				
+			<wid1>0P</wid1>
+			<wid2>272</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4165</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>22</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>22</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.903582486239344</lat>
+			<lon>-87.63150024414062</lon>
+			<pid>3936</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P215</run>
+			<fs>Harrison</fs>
+			<op>45089</op>
+			<dip>45809</dip>
+			<bid>3638</bid>				
+			<wid1>0P</wid1>
+			<wid2>215</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4384</id>    
+			<consist></consist>    
+			<cars></cars>    
+			<rtpiFeedName></rtpiFeedName>
+			<m>1</m>	  	
+			<rt>22</rt>
+			<rtRtpiFeedName></rtRtpiFeedName>
+			<rtdd>22</rtdd>  
+			
+			<d>South Bound</d>
+			<dd>Southbound</dd> 
+			<dn>S</dn> 
+			<lat>41.87735569477081</lat>
+			<lon>-87.63062942028046</lon>
+			<pid>3936</pid>
+			<pd>Southbound</pd> 
+			<pdRtpiFeedName></pdRtpiFeedName>
+			<run>P216</run>
+			<fs>Harrison</fs>
+			<op>58337</op>
+			<dip>55446</dip>
+			<bid>3646</bid>				
+			<wid1>0P</wid1>
+			<wid2>216</wid2>            	
+		</bus>
+
+
+
+	</buses>

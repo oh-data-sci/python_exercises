@@ -1,0 +1,516 @@
+T 
+ 
+ 
+
+ 
+
+Termsheet (Final Terms) 
+FACTOR CERTIFICATE 
+SSPA DESIGNATION: CONSTANT LEVERAGE CERTIFICATE (2300) 
+
+Vontobel Investment Banking 
++41(0)58 283 78 88 or www.derinet.ch  
+ 
+
+ 
+Factor Certificate on the “4X Long Index linked to SMI®”  
+ 
+PRODUCT DESCRIPTION                                                                                               
+
+Factor  Certificates enable  the  investor  to  benefit  disproportionally  (leveraged)  either  from  rising  (leveraged  long  index  products)  or  falling  (leveraged 
+short index products) prices of a reference security. At the same time, leverage remains constant. This is achieved whereby the Factor Certificate is not 
+based on the reference security itself but on an index (Factor Index). This Factor Index tracks on a daily basis the percentage change in the price of a 
+reference security versus its closing price on the previous day using a constant factor (leverage). With Factor Certificates, the leverage effect of the index 
+makes it possible to achieve disproportionately high gains but also disproportionately high losses (through to a de-facto total loss of the capital invested 
+where the underlying has zero value); however, due to the Factor Index's intra-day adjustment mechanism, losses in excess of the set threshold can at 
+least  be  reduced.  For  details  on  the  functions  and  risks  of  Factor  Certificates,  please  see  the  information  below  as  well  as  the  index  guide  on 
+https://indices.vontobel.com; the latter contain the principles for the calculation and publication of the Factor Index as well as definitions for the terms 
+used in connection with the Factor Index. 
+
+In Switzerland, these financial instruments are considered structured products. They are not collective investment schemes within the meaning of the 
+Swiss Federal Act on Collective Investment Schemes (CISA), and are therefore not subject to the regulations of the CISA or the supervision of the Swiss 
+Financial Market Supervisory Authority FINMA. 
+ 
+
+Product Information 
+Issuer 
+Lead Manager 
+Paying, Exercise and Calculation Agent 
+SSPA product type 
+Special notice regarding risks 
+
+ 
+
+ 
+
+ 
+Underlying (Factor Index) 
+
+Spot reference at issuance 
+ 
+Issue price  
+Ratio 
+ 
+Initial fixing 
+Payment date 
+Maturity 
+ 
+Reference currency 
+Swiss Sec. Number / ISIN / TK Symbol 
+ 
+Valuation date 
+
+Amount payable 
+
+ 
+
+ 
+ 
+
+Bank Vontobel AG, Zürich (Standard & Poor’s A+; Moody’s A1) 
+Bank Vontobel AG, Zurich 
+Bank Vontobel AG, Zurich 
+Constant Leverage Certificate (2300), see also www.svsp-verband.ch 
+Factor Certificates are exposed to – possibly substantial – price fluctuations and involve the risk of considerable 
+losses. In unfavourable circumstances, despite the threshold provided for in the Factor Certificate and the 
+underlying (Factor Index), a loss (including intra-day) may arise that is very close in financial terms to a total 
+loss of the capital invested (including any costs arising in connection with the purchase of a Factor Certificate). 
+The investor must also be aware that possible price losses can also arise in the event of a sideways movement 
+(price alternately rises and falls) by the reference security. 
+Prior to investing in Factor Certificates, investors are advised to read all risk information (including "Significant 
+risks for investors" below) and seek expert advice on the risks associated with the specific product. 
+ 
+4X Long Index linked to SMI®  
+(further details on the underlying see below “Underlying Description and ”Concept (Factor Index)”) 
+CHF 100.00  
+ 
+CHF 10.00 
+1 Factor Certificate corresponds to 0.1 “4X Long Index linked to SMI®” 
+ 
+February 25, 2014 
+March 4, 2014 
+Open End 
+ 
+CHF; Issue, trading and redemption will follow in the reference currency  
+23785020 / CH0237850208 / FI4LSM 
+ 
+The valuation date corresponds to the respective termination date or exercise day (as defined below in 
+“Issuer's right to call” and “Exercise rights of the investor”). 
+ 
+Where the valuation date is not an "index day" (i.e. a day on which the Index Calculation Agent normally 
+calculates  and  publishes  the  underlying  (Factor  Index)  in  accordance  with  the  index  concept  on  which  the 
+underlying is based (see index guide)), the valuation date is postponed to the following index day. 
+The  amount  payable  corresponds,  taking  into  account  the  ratio,  to  the  reference  price  of  the  underlying 
+(Factor Index) on the relevant valuation date, where applicable converted into the reference currency (at its 
+own  discretion,  the  Calculation  Agent  determines  the  exchange  rate  on  the  valuation  date  at  the  time  of 
+determining the reference price). 
+Payment is made 5 (five) banking days after the valuation date. 
+
+ 
+Page 1 
+
+Termsheet 
+
+ 
+
+ 
+
+Further Information 
+Issue size 
+Issuer's right to call 
+
+Exercise rights of the investor 
+
+Market disruptions, adjustment events 
+and early termination 
+
+Clearing / Settlement  
+Listing  
+Secondary market trading 
+
+Minimum investment 
+Minimum trading lot 
+Tax treatment in Switzerland 
+
+Title 
+
+Applicable Law / Jurisdiction 
+Prudential supervision 
+
+Vontobel Investment Banking 
+
+1’000'000 Factor Certificates, the size may be increased 
+The issuer has the right to terminate all outstanding Factor Certificates for early redemption on a termination 
+date ("termination date"; for the first time in March 2014) without stating a reason. The termination date is in 
+each case the last banking day of every month of the year. The corresponding notice must be published, citing 
+the termination date, at least 5 (five) banking days prior to the corresponding termination date on which the 
+termination is effective. In this event, the term of the Factor Certificates ends prematurely. 
+In the event of termination, the amount payable is determined on the valuation date. The corresponding 
+payment to the investor is made [5 (five)] banking days after the valuation date. All rights under the terminated 
+Factor Certificates expire upon payment of the amount payable. 
+Besides the possibility of selling Factor Certificates on an off or on-exchange basis within the respective trading 
+hours, the investor has the right, subject to prior termination by the issuer, to exercise his Factor Certificates in 
+each case on the last banking day of every month, for the first time in March 2014 ("exercise date"). The 
+exercise declaration must be made by telephone and fax to the Paying, Exercise and Calculation Agent no more 
+than 5 (five) banking days prior to the exercise date, citing the important information required for proper 
+exercising (i.e. name and address of holder; exercise declaration; precise description [including ISIN] and number 
+of book-entry securities that are to be exercised; settlement instructions for the bank managing the account). 
+The exercise declaration is binding and irrevocable once it is received by the Paying, Exercise and Calculation 
+Agent. Exercise declarations received late or whose contents are incorrect are in principle invalid and not treated 
+as an exercise declaration with regard to subsequent exercise dates. 
+In the event of exercising, the amount payable is determined on the valuation date. The corresponding payment 
+to the investor is made 5 (five) banking days after the valuation date. All investor rights under the exercised 
+Factor Certificates expire upon payment of the amount payable. 
+In the event of market disruptions and the announcement or occurrence of certain events ("adjustment 
+events") with regard to the underlying (Factor Index) or its constituents, such as (i) a change, adjustment or 
+other measure with regard to the relevant concept and the calculation of the underlying or its constituents with 
+the result that in the issuer's opinion the relevant concept or relevant calculation of the underlying is no longer 
+comparable with that on the day the Factor Certificate was issued, (ii) a dissolution of the underlying or its 
+constituents and/or replacement by another index concept or (iii) the introduction of certain taxes or duties, etc. 
+(not an exhaustive list), the issuer has the right to make discretionary adjustments (based on current market 
+practice) or terminate the Factor Certificates prematurely (see issue programme for details). 
+SIX SIS AG 
+Will be applied for in the main segment at the SIX Swiss Exchange 
+Throughout the entire term a secondary trading is conducted. Indicative daily prices of this product are available 
+ 
+at www.derinet.ch. 
+1 Factor Certificate  
+1 Factor Certificate 
+Gains on this product are not subject to the direct federal tax 
+Neither withholding tax nor the stamp duty at issuance is imposed.  
+Secondary market transactions are not subject to Swiss stamp duty. 
+For Swiss paying agents this product is not subject to the EU tax on interest (Issuer: Bank Vontobel AG). 
+The taxation mentioned is a non-binding and non-exhaustive summary of the applicable treatment of Swiss-
+domiciled private investors for tax purposes. 
+The  investor's  specific  circumstances,  however,  are  not  taken  into  account.  We  point  out  that  Swiss  and/or 
+foreign tax law or the authoritative practice of Swiss and/or foreign tax authorities can change at any time or 
+specify further tax or charge liabilities (possibly even with retrospective effect). The levying and transferring of 
+further taxes and charges, such as (foreign) transaction taxes, taxes at source and/or withholding taxes, to the 
+investor  remains  expressly  reserved  (see  also  the  corresponding  tax  law  explanations  in  the  issuance 
+programme). 
+Potential  investors  should  have  the  tax  effects  of  the  purchase,  holding,  sale  or  repayment  of  this  product 
+examined by their own tax adviser - especially with respect to the effects of taxation under another jurisdiction. 
+
+The Structured Products are issued in the form of non-certificated book-entry securities of the issuer. 
+No certificates, no printing of bonds. 
+Swiss law / Zürich 1, Switzerland 
+As a bank and prudentially supervised financial intermediary, Bank Vontobel AG is subject to the supervision of 
+individual banks, while Vontobel Holding AG and Vontobel Financial Products Ltd. as group member companies 
+are  subject  to  complementary,  consolidated  group  supervision  by  the  Federal  Financial  Markets  Regulator 
+FINMA. Vontobel Financial Products Ltd. is registered in the register of the Dubai International Finance Centre 
+as a non-regulated company. Neither Vontobel Financial Products Ltd. nor Vontobel Holding AG are financial 
+intermediaries subject to prudential supervision within the meaning of art. 5 para.1 subpara. a ciph. 1.-4. of the 
+CISA. 
+
+ 
+ 
+ 
+
+Page 2 
+
+Termsheet 
+
+ 
+Concept (Factor Index) 
+
+Description of the underlying 
+
+Underlying (Factor Index)  
+4X Long Index linked to SMI® 
+
+Vontobel Investment Banking 
+
+4X Long Index linked to SMI® 
+
+February 25, 2014 
+100 index points 
+CHF; one index point represents CHF 1.00 
+ISIN: CH0236907660 / Swiss Security number: 23690766 
+
+A  Factor  Index  tracks  the  percentage  change  of  a  reference  security  while  taking  into  account  the 
+corresponding leverage (factor) (see 'Description of the underlying (Factor Index)' below) on a daily basis. At 
+the same time, the leverage effect remains constant. The basis for calculating the index level is the change in 
+the reference security versus the reference security's closing price on the previous day. With each closing price 
+of  the  underlying,  therefore,  a  new  reference  price  is  determined  that  in  turn  represents  the  basis  for  the 
+following day's percentage performance. 
+Due  to  the  leverage  effect,  Factor  Indices  may  result  in  overproportional  price  losses;  a  total  loss  or  even  a 
+negative index level is avoided as far as possible owing to the respective threshold (i.e. the maximum permitted 
+change in the price of the reference security since the latest adjustment prior to an intra-day adjustment in the 
+Factor Index; see 'Description of underlying (Factor Index)' below). In the event of excessive price losses for the 
+Factor Index (depending on the structure of the respective Factor Index and specific level of the threshold; for 
+details, see 'Description of the underlying (Factor Index)' below), the calculation of the Factor Index is halted 
+and  a  new  day  is  simulated.  Depending  on  the  performance  of  a  reference  security,  several  intra-day 
+adjustments are possible during a single index day. 
+The Factor Index consists of a leverage and a financing component (for details, see index guide). 
+The 4X Long Index linked to SMI® is part of the Vontobel Leveraged family of indices. It reflects a Long 
+investment in the SMI® Index that is leveraged by a factor of 4. 
+ 
+Index name: 
+ 
+Index start date: 
+Index start value: 
+Index currency: 
+Identification: 
+ 
+Reference price: 
+the amount payable, which corresponds to the closing price of the underlying (index closing price) ascertained 
+and published by the Index Calculation Agent on the relevant valuation date. 
+ 
+Index Calculation Agent: 
+Reference security: 
+Leverage (factor): 
+Threshold: 
+Index fee: 
+Interest rate: 
+Initial financing spread: 
+ 
+The performance and any changes to the Factor Index as well as the index guide, including the details on 
+calculating the index, are available at https://indices.vontobel.com. All announcements concerning the Factor 
+Index are made through publication on the aforementioned information site, whereby an announcement is 
+deemed to have been made on the day of first publication. 
+ 
+Important notice 
+The Vontobel Leveraged Indices (Factor Indices) are not recognised financial indices but are customized indices 
+conceived by Bank Vontobel AG in its capacity as Index Calculation Agent, their sole function being to act as 
+underlying for this type of security (Factor Certificates). 
+The Index Calculation Agent will perform the calculation and composition of the Factor Index with the utmost 
+care. However, the Index Calculation Agent cannot guarantee that calculation of the index or other key figures 
+required  for  the  composition  and  calculation  in  accordance  with  the  index  guide  will  be  free  from  error  and 
+accepts no liability whatsoever towards third parties for associated direct or indirect damages (see index guide 
+for details). 
+
+Bank Vontobel AG, Gotthardstrasse 43, 8002 Zurich, Switzerland 
+SMI® (ISIN: CH0009980894; Bloomberg <SMI Index>) 
+4 (type Long) 
+21.00% 
+1.00% p.a. 
+CHF LIBOR O/N (overnight) 
+0.10% p.a. 
+
+The price of the underlying (Factor Index) relevant to determining and calculating 
+
+ 
+
+ 
+ 
+PROSPECTS OF PROFIT AND LOSSES 
+
+Factor Certificates track the performance of an index (Factor Index) on which the certificates are based. They provide an opportunity to benefit 
+overproportionally either from rising (leveraged long index products) or falling (leveraged short index products) prices of the reference security on which 
+the index is based. Essentially, a long strategy's profit potential is thus unlimited; for a short strategy, the maximum profit potential is limited and reached 
+when the market price of the reference security drops to zero. A possible gain arises from the positive difference between the sale price that is achieved 
+or repayment amount and the purchase price. Factor Certificates do not yield current income. The value of the Factor Certificate during the term is 
+essentially determined by the performance of the relevant Factor Index and therefore by the performance of the underlying reference security, the degree 
+of leverage (factor), level of interest rates, possible exchange rate fluctuations and, if applicable, any change with regard to the cost of providing 
+collateral (e.g. for future contracts). 
+The investor bears the risk of a daily investment in the underlying (Factor Index), leveraged by a factor. With the choice of factor (leverage), the investor 
+also simultaneously determines the level of risk. The greater the leverage, the greater the risk: the leverage effect amplifies both the gains and the losses 
+that arise for the underlying (Factor Index). In unfavourable circumstances, despite the threshold provided for in the Factor Certificate, a loss (including 
+intra-day) may arise that is very close in financial terms to a total loss of the capital invested (including any costs arising in connection with the purchase 
+of a Factor Certificate). In volatile sideways phases, the underlying (Factor Index) can also lose value despite the reference security reaching its original 
+price level at the end of the sideways phase. 
+ 
+Even if the performance of the underlying (Factor Index) is positive, the price of the product may be considerably below the issue price during the term. 
+Potential investors should bear in mind that price changes to the underlying (Factor Index), as well as other influencing factors, may have a negative 
+effect on the value of structured products.  
+
+ 
+
+ 
+ 
+ 
+
+Page 3 
+
+Termsheet 
+
+ 
+
+SIGNIFICANT RISKS FOR INVESTORS 
+
+Vontobel Investment Banking 
+
+Currency risks 
+If the underlying or underlyings is/are denominated in a currency other than the product's reference currency, investors should bear in mind that this may 
+involve risks due to fluctuating exchange rates and that the risk of loss does not only depend on the performance of the underlying(s) but also on any  
+unfavourable performance of the other currency or currencies. This does not apply for currency-hedged products (quanto structure). 
+
+Market risks 
+The general market performance of securities is dependent in particular on the development of the capital markets which, for their part, are influenced by 
+the general global economic situation as well as by the economic and political framework conditions in the respective countries (so-called market risk). 
+Changes to market prices such as interest rates, commodity prices or corresponding volatilities may have a negative effect on the valuation of the 
+underlying(s) or the structured product. There is also the risk of market disruptions (such as trading or stock market interruptions or discontinuation of 
+trading) or other unforeseeable occurrences concerning the respective underlyings and/or their stock exchanges or markets taking place during the term 
+or upon maturity of the structured products. Such occurrences can have an effect on the time of redemption and/or on the value of the structured 
+products. 
+
+Secondary market risks 
+Under normal market conditions, the issuer or the lead manager intend to post bid- and ask-prices on a regular basis. However, neither the issuer nor the 
+lead manager is under any obligation with respect to investors to provide such bid- and ask-prices for specific order or securities volumes, and there is no 
+guarantee of a specific liquidity or of a specific spread (i.e. the difference between bid- and ask-prices), for which reason investors cannot rely on being 
+able to purchase or sell the structured products on a specific date or at a specific price. 
+
+Issuer risk 
+The value of structured products may depend not only on the performance of the underlying(s), but also on the creditworthiness of the issuer/guarantor, 
+which may change during the term of the structured product. The investor is exposed to the risk of default of the issuer/guarantor. For further 
+information on the rating of Vontobel Holding AG or Bank Vontobel AG, please see the issuance programme. 
+
+Publication of notifications and adjustments 
+All notifications to investors concerning the products and adjustments to the product terms (e.g. due to corporate actions) are published under the 
+"Product history" of the respective product at www.derinet.ch, and, in the case of products listed on the SIX Swiss Exchange in accordance with the valid 
+provisions at www.six-swiss-exchange.com. 
+
+Classification 
+In Switzerland, these financial instruments are considered structured products. They are not collective investment schemes within the meaning of the 
+Swiss Federal Act on Collective Investment Schemes (CISA), and are therefore not subject to the regulations of the CISA or the supervision of the Swiss 
+Financial Market Supervisory Authority FINMA. 
+
+Restrictions on sales 
+U.S.A., U.S. persons, UK, EEA. 
+DIFC/Dubai: This document relates to an Exempt Offer in accordance with the Markets Rules Module (MKT) of the Dubai Financial Services Authority 
+(DFSA). This document is intended for distribution only to a person entitled to receive it under Rule 2.3.1 of the MKT. It must not be delivered to, or 
+relied on, by any other person. The DFSA has no responsibility for reviewing or verifying any documents in connection with Exempt Offers. The DFSA has 
+not approved this document nor taken any steps to verify the information set out in it, and has no responsibility for it. The securities to which this 
+document relates may be illiquid and/or subject to restrictions on their resale. Prospective purchasers of the securities offered should conduct their own 
+due diligence on the securities. If you do not understand the contents of this document, you should consult an authorized financial adviser. 
+
+Further risk information 
+Please also note the additional risk factors and selling restrictions set out in detail in the issuance programme. 
+
+ 
+ 
+
+ 
+
+LEGAL NOTICES 
+
+Product documentation  
+Only the Termsheets published at www.derinet.ch along with the associated notices and adjustments shall be legally valid.  
+The original version of the Termsheet is in German; foreign-language versions constitute non-binding translations. The issuer and/or Bank Vontobel AG is 
+entitled to correct spelling mistakes, calculation or other obvious errors in this Termsheet and to make editorial changes, as well as to amend or 
+supplement contradictory or incomplete provisions, without the consent of the investors.  
+Up until the fixing date, the product terms designated as such of the "Termsheet (Indication)" are indicative and may be adjusted. The issuer is under no 
+obligation to issue the product. The "Termsheet (Final Terms)", which is usually issued on the date of the initial fixing, contains a summary of the most 
+important final terms and information, and constitutes the "Final Terms" pursuant to art. 21 of the Additional Rules for the Listing of Derivates of SIX 
+Swiss Exchange. Together with the issuance programme of June 1, 2013, registered with SIX Swiss Exchange (the "Issuance Programme"), the Final 
+Terms constitute the complete listing prospectus according to the the Listing Rules. In the event of discrepancies between this Termsheet and the 
+Issuance Programme, the provisions of the Final Terms shall take precedence.  
+For structured products not listed on the SIX Swiss Exchange, the Termsheet (Indication) constitutes the preliminary simplified prospectus and the 
+Termsheet (Final Terms) constitutes the definitive simplified prospectus pursuant to art. 5 of the Federal Act on Collective Investment Schemes (CISA). In 
+addition, reference is also made (with the exception of the provisions authoritative for a listing) to the Issuance Programme, in particular to the detailed 
+information on risks contained therein, to the General Terms and Conditions and to the descriptions of the corresponding product types. 
+During the entire term of the structured product, all documents may be ordered free of charge from Bank Vontobel AG, Financial Products 
+documentation, Bleicherweg 21, 8002 Zurich (telephone: +41 (0)58 283 78 88, fax +41 (0)58 283 57 67). Termsheets may also be downloaded on the 
+www.derinet.ch website. 
+Vontobel explicitly rejects any liability for publications on other Internet platforms. 
+
+ 
+ 
+ 
+ 
+
+Page 4 
+
+Termsheet 
+
+ 
+
+ 
+
+Vontobel Investment Banking 
+
+Further information 
+The list and information shown do not constitute a recommendation concerning the underlying in question; they are for information purposes only and 
+do not constitute either an offer or an invitation to submit an offer, or a recommendation to purchase financial products. Indicative information is 
+provided without warranty. The information is not a substitute for the advice that is indispensable before entering into any derivative transaction. Only 
+investors who fully understand the risks of the transaction to be concluded and who are commercially in a position to bear the losses which may thereby 
+arise should enter into such transactions. Furthermore, we refer to the brochure "Special Risks in Securities Trading" which you can order from us. In 
+connection with the issuing and/or selling of structured products, companies from the Vontobel Group can pay reimbursements to third parties directly or 
+indirectly in different amounts. Such commission is included in the issue price. You can obtain further information from your sales agent upon request. 
+We will be happy to answer any questions you may have concerning our products on +41 (0)58 283 78 88 from 08.00 – 17.00 CET on bank business 
+days. Please note that all calls to this number are recorded. By calling this number, your consent to such recording is deemed given. 
+
+Material changes since the most recent annual financial statements 
+Subject  to  the  information  in  this  Termsheet  and  the  Issuance  Programme,  no  material  changes  have  occurred  in  the  assets  and  liabilities,  financial 
+position and profits and losses of the issuer/guarantor since the reporting date or the close of the last financial year or the interim financial statements of 
+the issuer and, as the case may be, of the guarantor. 
+
+Responsibility for the listing prospectus 
+Bank Vontobel AG takes responsibility for the content of the listing prospectus and hereby declares that, to the best of its knowledge, the information is 
+correct and that no material facts or circumstances have been omitted. 
+
+ 
+
+ 
+Zurich, February 25, 2014 
+Bank Vontobel AG, Zurich 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+Your customer relationship manager will be happy to answer any questions you may have. 
+
+ 
+
+Bank Vontobel AG  
+
+Banque Vontobel SA,  
+
+Gotthardstrasse 43, CH-8022 Zürich  
+
+Rue du Rhône 31,  CH-1204 Genève 
+
+Telefon +41 (0)58 283 71 11 
+
+Internet: http://www.derinet.com 
+
+ 
+
+Téléphone +41 (0)58 283 26 26 
+
+Internet: http://www.derinet.com 
+
+Page 5 
+
+

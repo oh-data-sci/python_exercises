@@ -1,0 +1,702 @@
+ 
+
+ 
+
+                                                                                 
+
+  
+
+ 
+
+1/6 
+
+Investment Banking 
+
+  VONCERT Open End on the Bitcoin  
+
+ 
+
+ 
+
+ 
+
+Termsheet (Final Terms) 
+SSPA Designation 
+Tracker Certificate (1300) 
+
+Contact 
++41 58 283 78 88  
+www.derinet.com 
+
+ 
+
+In Switzerland, these financial instruments are considered structured products. They are not collective investment schemes 
+within the meaning of the Swiss Federal Act on Collective Investment Schemes (CISA), and are therefore not subject to the 
+regulations of the CISA or the supervision of the Swiss Financial Market Supervisory Authority FINMA. The investors bear the 
+issuer's credit risk. 
+
+ 
+
+ 
+Product Description 
+These VONCERT Open End as tracker certificates, provide the opportunity to participate in an underlying instrument’s 
+performance in a transparent way and with a single transaction. The potential yield and loss is comparable to that of the 
+underlying instrument. 
+ 
+Product Information 
+Issuer 
+Bank Vontobel AG, Zürich (Moody's Counterparty Risk Assessment A2 (cr)) 
+Lead Manager 
+Bank Vontobel AG, Zurich 
+Paying, exercise and calculation agent  Bank Vontobel AG, Zurich 
+SSPA product type 
+ 
+Underlying 
+Spot reference price 
+Ratio 
+ 
+Issue price  
+Nominal value 
+ 
+Initial fixing 
+Payment date 
+Maturity 
+Redemption Date 
+ 
+Reference currency 
+Swiss Sec. Number / ISIN / Symbol 
+ 
+Redemption amount 
+
+Tracker Certificate (1300), see also www.svsp-verband.ch 
+ 
+US Dollar per 1 Bitcoin (further details on the underlying see below) 
+USD 5‘679.00 per 1.00 XBT  
+0.10 
+ 
+USD 567.90   
+USD 5‘679.00 
+ 
+25 October 2017 
+01 November 2017 
+Open End 
+5 Bank Business Days after the relevant Termination Date or Exercise Date (as described below) 
+ 
+USD; Issue, trading and redemption will follow in the reference currency  
+CH0382903356 / 38290335/ ZXBTAV 
+ 
+The redemption amount per VONCERT Open End shall correspond to the Nominal value multiplied by the Ratio 
+and further multiplied by the Performance Factor on the respective Termination Date (in case of termination by 
+the issuer) or on the respective Exercise Date (in case of an exercise by the investor): 
+ 
+Redemption amount = Nominal value * Ratio * Performance Factor 
+ 
+
+2/6  Investment Banking / Termsheet (Final Terms) 
+
+Vontobel 
+
+ 
+ 
+Performance Factor 
+
+Management Fee 
+Reference Price 
+
+Ordinary termination 
+
+Investor's Exercise Right 
+
+Reference Dates 
+
+ 
+
+Extraordinary termination 
+
+Hedging disruption 
+
+The Performance Factor of the Underlying on a trading day shall correspond to the performance of the 
+Underlying since Initial fixing, less Management Fee and will be calculated according the following formula: 
+ 
+
+∏
+
+t
+
+(cid:167)
+(cid:168)(cid:168)
+(cid:169)
+
+B
+t
+B
+t
+
+1
+−
+
+−
+
+Fee
+
+d
+t
+360
+
+(cid:183)
+(cid:184)(cid:184)
+(cid:185)
+
+ 
+
+ 
+Where: 
+t 
+Bt  
+
+shall mean the number of trading days since the Initial fixing 
+shall mean the reference price of the underlying at the end of the trading day t (B0 = Reference price 
+of the underlying at initial fixing) 
+shall mean the Management Fee  
+shall mean the number of calendar days between trading day t and previous trading day t-1. 
+
+Feet  
+dt 
+1.50% p.a. (deducted pro rata on a daily basis) 
+The calculation agent will determine the Reference price of the underlying for one day on the basis of the 
+prices at the Reference exchanges for this underlying at its sole discretion. 
+The issuer shall be entitled to ordinarily terminate all outstanding VONCERTs Open End with effect at each 
+Reference date for the purpose of early repayment on the redemption date without giving any indication of 
+reasons. The relevant notification has to be published at least one month in advance stating the termination 
+date authoritative for calculating the Redemption Amount (“Termination Date”). 
+In this event, the term of the VONCERTs Open End shall end early and all investors in the VONCERT Open End 
+are entitled to receive the respective Redemption Amount on the respective Redemption Date. 
+Investors may exercise the VONCERTs Open End they hold on any Reference date. The exercise declaration 
+must be submitted to the Exercise Agent at least five Bank Business Day before the respective Reference date, 
+in order to be effective on this Reference date. Exercise declarations received after that time will not become 
+effective until the next Reference date. The Bank Business Day on which an exercise becomes effective is an 
+Exercise Date (“Exercise Date”). Any exercise by an Investor prevails over an early termination due to Issuer’s 
+Call as described above. 
+Each second Friday of March and September. If the Reference Date is not a Bank Business Day, the next Bank 
+Business Day is considered as the Reference Date. 
+The Issuer is entitled to extraordinarily terminate the VONCERT Open End in exceptional cases for a hedging 
+disruption (as described below) for tax or other extraordinary reasons and in the event of no outstanding 
+positions (as detailed in the Issuance Program). 
+A hedging disruption occurs when the Issuer and / or its affiliated companies are not able, even under 
+economically reasonable efforts (i) to conclude hedging transactions, reenter, replace, maintain, solve, acquire 
+or dispose of, or ( ii) to realize revenues, recover or transfer such hedging transactions. The Issuer determines 
+in its sole discretion whether a hedging disruption occurs. 
+
+ 
+ 
+Further Information 
+Issue size                                                   *  60‘000 VONCERT Open End, the size may be increased 
+Title 
+
+Depository 
+Clearing / Settlement 
+Applicable Law / Jurisdiction 
+Publication of notifications and  
+adjustments 
+ 
+
+Secondary market trading 
+
+Listing  
+Minimum investment 
+Minimum trading lot 
+Figures for fees and charges 
+
+Supervision 
+
+The Structured Products are issued in the form of non-certificated book-entry securities of the issuer. 
+No certificates, no printing of bonds. 
+SIX SIS AG 
+SIX SIS AG, Euroclear Brussels, Clearstream (Luxembourg) 
+Swiss law / Zürich 1, Switzerland 
+All notifications to investors concerning the products and adjustments to the product terms (e.g. due to 
+corporate actions) are published under the "Product history" of the respective product at www.derinet.ch, and, 
+in the case of products listed on the SIX Swiss Exchange in accordance with the valid provisions at www.six-
+swiss-exchange.com. 
+Bank Vontobel will endeavor to provide a secondary market under consideration of the liquidity of the 
+underlying during the term of the product. Indicative daily prices of this product are available at 
+www.derinet.com. 
+Will be applied for in the main segment at the SIX Swiss Exchange. 
+1 VONCERT Open End 
+1 VONCERT Open End 
+Vontobel estimates the Issuer Estimated Value (IEV) of this product at 100%, which gives a Total Expense Ratio 
+(TER) of 1.50%.  
+No Distribution charges are included in this TER figure. 
+As a bank and prudentially supervised financial intermediary, Bank Vontobel AG is subject to the supervision of 
+individual banks by the Federal Financial Markets Regulator FINMA. 
+
+ 
+
+ 
+ 
+* Adjustment of 27 November 2017: Increase of the issue size (see notification on product history under www.derinet.com) 
+
+3/6  Investment Banking / Termsheet (Final Terms) 
+
+Vontobel 
+
+ 
+Tax treatment in Switzerland 
+Swiss Income Tax 
+
+Swiss Withholding Tax 
+Issuance Stamp Tax 
+Swiss turnover tax 
+General information 
+
+For natural persons resident in Switzerland, any capital growth represents a capital gain and is in principle not 
+subject to direct federal taxes.  
+No Swiss withholding tax 
+No Swiss stamp duty at issuance 
+Secondary market transactions are not subject to the swiss turnover tax.  
+Transactions and payments relating to this product may be subject to further (foreign) transaction taxes, duties 
+and/or withholding taxes, in particular a withholding tax pursuant to the Section 871(m) of the US Internal 
+Revenue Code. All payments from this product will occur with any applicable taxes and duties deducted. 
+The taxation mentioned is a non-binding and non-exhaustive summary of the applicable treatment of Swiss-
+domiciled private investors for tax purposes. 
+The investor's specific circumstances, however, are not taken into account. We point out that Swiss and/or 
+foreign tax law or the authoritative practice of Swiss and/or foreign tax authorities can change at any time or 
+specify further tax or charge liabilities (possibly even with retrospective effect). 
+Potential investors should have the tax effects of the purchase, holding, sale or repayment of this product 
+examined by their own tax adviser - especially with respect to the effects of taxation under another jurisdiction. 
+
+ 
+
+ 
+Description of the underlying 
+
+US Dollar per 1 Bitcoin 
+(XBTUSD exchange rate) 
+
+Name:  
+Description:  
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+US Dollar (USD) per 1 Bitcoin (XBT) 
+The term ‘Bitcoin’ refers to an internet currency whose monetary units are created  
+and managed decentralized on a computer network. Bitcoin users who are  
+connected with each other via the internet can transfer bitcoins to one another  
+electronically. Bitcoins only exist virtually on a computer network and have no
+physical equivalent. Bitcoins are traded in a completely decentralized way on the 
+internet and do not have to be processed via intermediaries of any kind (e.g. 
+countries, central / commercial banks). 
+
+Reference exchanges:   CoinBase, Kraken Bitcoin Exchange, Bitfinex 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+Identification:   
+
+The calculation agent has the right to remove, add or change one or more  
+reference exchanges at its sole discretion  
+
+Bloomberg <XBTUSD Curncy> 
+
+ 
+Prospects of Profit and Losses 
+VONCERT Open End are tracker certificates which allow participating in an underlying instrument’s performance in a transparent way and with a single 
+transaction. Any potential profit consists of the positive difference between the sales price achieved, i.e. the redemption price, and the purchase price. 
+VONCERT Open End do not provide ongoing revenues. The value of the VONCERT Open End during their term is significantly influenced by the price 
+development of the underlying instrument.    
+Even if the performance of the underlying is positive for the investor, that is an appreciation of the XBT against the USD, the price of the product during 
+the term can be considerably below the issue price. Potential investors should bear in mind that price changes to the underlying, as well as other 
+influencing factors, may have a negative effect on the value of structured products.  
+ 
+Assumptions and limitations in preparing the market scenarios  
+
+The following market scenarios should afford the investor a simplified way of making an assessment of the significant factors that influence the 
+investment performance of the certificate. For a precise analysis of the profit and loss scenarios, reference must be made to the formulas and 
+definitions set out in this termsheet, (e.g. for "reimbursement"), because these scenarios have been deliberately simplified in order to make them better 
+understandable. With the exception of those certificates for which one of the following factors is defined as the underlying (e.g. a currency certificate or 
+a certificate of interest), the impact of these risk factors will be excluded from the simplified presentation of the scenario  
+• 
+• 
+•  Volatility risks  
+• 
+• 
+ 
+
+Issuer risk  
+Fees and costs both stemming from the certificate and for the acquisition and holding of the certificate 
+
+Foreign currency risks  
+Interest rate risks  
+
+Market scenarios 
+
+Maximum gain: Underlying performance 
+Maximum loss: 100% 
+ 
+Positive scenario: 
+Indicative performance of the certificate: 0% to underlying performance 
+Necessary market performance of underlying: 
+- Proportional participation in positive market performance 
+ 
+Break even: 
+Indicative performance of the certificate: 0% 
+Necessary market performance of underlying: 
+
+4/6  Investment Banking / Termsheet (Final Terms) 
+
+Vontobel 
+
+ 
+- Closing price of underlying = reference price level at the time of the investment 
+ 
+Negative scenario: 
+Indicative performance of the certificate: Loss of up to 100% possible 
+Necessary market performance of underlying: 
+- Closing price of underlying is lower than the reference price level at the time of the investment 
+
+ 
+
+Significant Risks for Investors 
+ 
+Underlying-related risk 
+As the Federal Council elaborated in its report on virtual currencies dated 25 June 2014, users of Bitcoins (and therefore investors in products with 
+Bitcoin as an underlying, indirectly) are exposed to elevated risk of fraud and loss. Several markets for Bitcoins already had to cease their activities or 
+have been closed for other reasons - in some cases because of hacker attacks. 
+Bitcoin can be stolen. After purchase, Bitcoin is regularly stored in a "virtual wallet" on a computer, laptop or smartphone. These virtual wallets are 
+usually protected by a private key or password. Virtual wallets also usually have a public key and a private key or a password for the access however, 
+virtual wallets are not fully protected from hackers. Just as in real wallets, money can be stolen from a virtual wallet as well. 
+Thefts and hacker attacks can have a negative impact on the reputation of the currency or the market place concerned and thus affect negatively the 
+market price of Bitcoins. Through the product, investors would indirectly participate to such a negative performance, the total loss would be possible. 
+Bitcoins can be used anonymously and Bitcoins do not have to be traded through government institutions or banks. Bitcoins can be purchased directly 
+from an owner or a trading venue. These platforms are generally not regulated. Investors thus face increased risk of the issuer identifying occurrence of 
+a hedging disruption, involving the loss risks outlined below. 
+The market value of a Bitcoin is not based on any kind of claim, nor any physical asset. Instead, the market value depends entirely on the expectation of 
+being usable in future transactions. This strong correlation between an expectation and market value is the basis for the current and probably future 
+volatility of the market value of Bitcoins. 
+If over 50% of all computers used worldwide for verifying Bitcoin transactions are subject to control by a single instance, there is a risk that the 
+controlling instance could take over 100% of all transactions. Such "51% attacks", as they are known, can cause overall confidence in Bitcoin to 
+evaporate, bringing all trading to a halt, thereby causing losses for investors up to and including a possible total loss. 
+ 
+Risks due to hedging disruptions 
+If the issuer identifies a hedging disruption, investors are exposed to the risk of total loss, as the final fixing could be based on an underlying valued at 
+zero. 
+ 
+Currency risks 
+If the underlying or underlyings is/are denominated in a currency other than the product's reference currency, investors should bear in mind that this 
+may involve risks due to fluctuating exchange rates and that the risk of loss does not only depend on the performance of the underlying(s) but also on 
+any unfavourable performance of the other currency or currencies. This does not apply for currency-hedged products (quanto structure). 
+ 
+Market risks 
+The general market performance of securities is dependent in particular on the development of the capital markets which, for their part, are influenced 
+by the general global economic situation as well as by the economic and political framework conditions in the respective countries (so-called market 
+risk). Changes to market prices such as interest rates, commodity prices or corresponding volatilities may have a negative effect on the valuation of the 
+underlying(s) or the structured product. There is also the risk of market disruptions (such as trading or stock market interruptions or discontinuation of 
+trading) or other unforeseeable occurrences concerning the respective underlyings and/or their stock exchanges or markets taking place during the 
+term or upon maturity of the structured products. Such occurrences can have an effect on the time of redemption and/or on the value of the structured 
+products. 
+In the event of trading restrictions, sanctions and similar occurrences, the issuer is entitled, for the purpose of calculating the value of the structured 
+product, to include at its own discretion the underlying instruments at their most recently traded price, at a fair value to be established at its sole 
+discretion or indeed as worthless, and/or additionally to suspend pricing in the structured product or liquidate the structured product prematurely. 
+ 
+Secondary market risks 
+Under normal market conditions, the issuer or the lead manager intend to post bid- and ask-prices on a regular basis. However, neither the issuer nor 
+the lead manager is under any obligation with respect to investors to provide such bid- and ask-prices for specific order or securities volumes, and 
+there is no guarantee of a specific liquidity or of a specific spread (i.e. the difference between bid- and ask-prices), for which reason investors cannot 
+rely on being able to purchase or sell the structured products on a specific date or at a specific price. 
+ 
+Issuer risk 
+The value of structured products may depend not only on the performance of the underlying(s), but also on the creditworthiness of the guarantor, which 
+may change during the term of the structured product. The investor is exposed to the risk of default of the guarantor. For further information on the 
+rating of Bank Vontobel AG or Vontobel Holding AG , please see the issuance programme. 
+ 
+Selling Restrictions 
+U.S.A., U.S. Persons, UK, DIFC/Dubai 
+Australia, Hong Kong, Singapore, UK (please refer to the below mentioned WARNING STATEMENT) (note: the afore list is not exhaustive). 
+European Economic Area (EEA): Investors should note the selling restrictions: since neither this termsheet nor the issuance programme meets the 
+requirements of the EU Prospectus Directive, the implementing regulations or the national transposing measures, this security may not be publicly 
+offered for sale within the EEA until a corresponding prospectus has been drawn up and approved by the supervisory authority, unless: (a) this offer is 
+
+5/6  Investment Banking / Termsheet (Final Terms) 
+
+Vontobel 
+
+ 
+aimed exclusively at qualified investors, (b) this offer is aimed at fewer than 150 investors in total in each state in the EEA, (c) the minimum investment 
+amount per investor is EUR 100,000 or the securities have a minimum nominal value of EUR 100,000, or (d) the selling price of all the securities offered 
+is less than EUR 100,000. 
+DIFC/Dubai: This document relates to an Exempt Offer in accordance with the Markets Rules Module (MKT) of the Dubai Financial Services Authority 
+(DFSA). This document is intended for distribution only to a person entitled to receive it under Rule 2.3.1 of the MKT. It must not be delivered to, or 
+relied on, by any other person. The DFSA has no responsibility for reviewing or verifying any documents in connection with Exempt Offers. The DFSA 
+has not approved this document nor taken any steps to verify the information set out in it, and has no responsibility for it. The securities to which this 
+document relates may be illiquid and/or subject to restrictions on their resale. Prospective purchasers of the securities offered should conduct their 
+own due diligence on the securities. If you do not understand the contents of this document, you should consult an authorized financial adviser. 
+These Structured Products may only be offered or sold, or be made the subject of an invitation for subscription or purchase, whether directly or 
+indirectly, under the conditions specified, and to the persons described, in, the below mentioned WARNING STATEMENT. Recipients of the Issuance 
+Documentation and/or any other document or material in relation to the issue, offering or sale of the Structured Products may not reissue, circulate or 
+distribute any of the aforementioned documents or materials or any part thereof in any manner whatsoever, except to the persons described in the 
+below mentioned WARNING STATEMENT. 
+As a rule, no action has been taken or will be taken on the part of the Issuer or any other entity in the Vontobel group of companies, that would permit or 
+justify any offer of these Structured Products and/or the possession, circulation or distribution of the Issuance Documentation or any other offering or 
+publicity material relating to these Structured Products, where action for such purpose is required under the laws and regulations of any country or 
+jurisdiction. As the offer of these Structured Products and/or the possession, circulation or distribution of the Issuance Documentation or any other 
+offering or publicity material relating to these Structured Products may be restricted or prohibited by the laws and regulations of certain countries or 
+jurisdictions, any person who receives this Termsheet, any other part of the Issuance Documentation and/or any other offering or publicity material 
+relating to these Structured Products are advised to consult their legal advisers on any such restrictions or prohibitions, and to observe them at all 
+times. 
+ 
+Further risk information and selling restrictions 
+Please also note the additional risk factors and selling restrictions set out in detail in the issuance programme. 
+ 
+Warning Statement 
+ 
+Australia 
+No prospectus or other disclosure document (as defined in the Corporations Act 2001 of Australia ("Corporations Act")) in relation to this document 
+and the Issuance Programme (as defined below) (collectively, the "Product Documentation") or the Securities has been or will be, lodged with the 
+Australian Securities and Investments Commission ("ASIC"). Each person dealing in the Securities is required to represent and agree that it:  
+(a)  has not (directly or indirectly) offered or invited applications, and will not offer or invite applications, for the issue, sale or purchase of the 
+
+Securities in Australia (including an offer or invitation which is received by a person in Australia); or 
+
+(b)  has not distributed or published, and will not distribute or publish, any Issuance Programme, information memorandum or any other offering 
+
+material or advertisement relating to the Securities in Australia, 
+
+     unless, 
+
+(i) 
+
+the aggregate consideration payable by the offeree is at least A$500,000 (or its equivalent in an alternate currency, in either case, 
+disregarding monies lent by the offeror or its associates) or the offer otherwise does not require disclosure to investors under Parts 6D.2 or 
+7.9 of the Corporations Act 
+
+(ii)  such action complies with all applicable laws, regulations and directives (including, without limitation, the licensing requirements set out in 
+
+Chapter 7 of the Corporations Act); 
+the offer or invitation is not made to a person who is a 'retail client' within the meaning of section 761G of the Corporations Act; and 
+
+(iii) 
+(iv)  such action does not require any document to be lodged with ASIC. 
+
+Hong Kong 
+No person may issue or have in its possession for the purposes of issue, whether in Hong Kong or elsewhere, any advertisement, invitation or document 
+relating to the Structured Products, which is directed at, or the contents of which are likely to be accessed or read by, the public of Hong Kong (except 
+if permitted to do so under the securities laws of Hong Kong) other than with respect to the Structured Products which are or are intended to be 
+disposed of only to persons outside Hong Kong or only to “professional investors” as defined in the Securities and Futures Ordinance (Cap. 571) of 
+Hong Kong and any rules made under that Ordinance. 
+Singapore 
+This document and the issuance programme (collectively, the "Product Documentation") have not been registered as a prospectus with the Monetary 
+Authority of Singapore under the Securities and Futures Act (Chapter 289 of Singapore) (the "SFA"). 
+Accordingly, the Product Documentation and any other document or material in connection with the offer or sale, or invitation for subscription or 
+purchase, of the Structured Products to be issued from time to time by the Issuer pursuant to the offer may not be circulated or distributed, nor may the 
+Structured Products be offered or sold, or be made the subject of an invitation for subscription or purchase, whether directly or indirectly, to any person 
+in Singapore other than (a) to an institutional investor (as defined in Section 4A of the SFA) pursuant to Section 274 of the SFA, (b) to a relevant person 
+(as defined in Section 275(2) of the SFA) pursuant to Section 275(1) of the SFA, or any person pursuant to an offer referred to in Section 275(1A) of the 
+SFA, and in accordance with the applicable conditions specified in Section 275 of the SFA or (c) otherwise pursuant to, and in accordance with the 
+conditions of, any other applicable provision of the SFA. 
+Where the Structured Products are acquired by persons who are relevant persons specified in Section 276 of the SFA, namely: 
+(a)  
+  
+(b) 
+  
+the shares, debentures and units of shares and debentures of that corporation or the beneficiaries’ rights and interest (howsoever described) in that 
+trust shall not be transferred within 6 months after that corporation or that trust has acquired the Structured Products pursuant to an offer made under 
+Section 275 of the SFA except: 
+
+a corporation (which is not an accredited investor (as defined in Section 4A of the SFA)) the sole business of which is to hold investments  
+and the entire share capital of which is owned by one or more individuals, each of whom is an accredited investor; or 
+a trust (where the trustee is not an accredited investor) whose sole purpose is to hold investments and each beneficiary of the trust is an  
+individual who is an accredited investor,  
+
+ 
+
+ 
+
+(1) 
+
+to an institutional investor (under Section 274 of the SFA) or to a relevant person as defined in Section 275(2) of the SFA, or any person 
+pursuant to an offer that is made on terms that such shares, debentures and units of shares and debentures of that corporation or such 
+rights or interest in that trust are acquired at a consideration of not less than S$200,000 (or its equivalent in a foreign currency) for each 
+
+6/6  Investment Banking / Termsheet (Final Terms) 
+
+Vontobel 
+
+ 
+
+transaction, whether such amount is to be paid for in cash or by exchange of securities or other assets and further for corporations, in 
+accordance with the conditions specified in Section 275(1A) of the SFA; 
+
+(2)  where no consideration is or will be given for the transfer; 
+(3)  where the transfer is by operation of law 
+(4)  as specified in Section 276(7) of the SFA; or 
+(5)  as specified in Regulation 32 of the Securities and Futures (Offers of Investments)(Shares and Debentures) Regulations 2005 of 
+
+Singapore 
+
+By accepting receipt of this document, any person in Singapore represents and warrants that he is entitled to receive such document in accordance 
+with the restrictions set forth above and agrees to be bound by the limitations contained herein. 
+United Kingdom 
+Structured Products may be distributed and sold only by persons 
+a. 
+
+in the case of Structured Products with a term of less than one year (i) whose customary activities include the acquisition, the ownership, the 
+management or the sale of investments (in their own name or on behalf of third parties) for their business purposes and (ii) who have offered or 
+sold or will offer or sell the Structured Products only to persons whose activities in the ordinary course of business comprise the acquisition, the 
+ownership, the management or the sale of investments (directly or on behalf of third parties) for their business purposes and (iii) who have only 
+offered or sold or who will only offer and sell the Structured Products to persons whose customary business activities include the acquisition, the 
+ownership, the management or sale of investments (in their own name or on behalf of third parties) for their business purposes or who one may 
+properly assume will acquire, possess, manage or sell investments (for their own account or on behalf of third parties) for their business purposes, 
+to the extent that the issue of Structured Products would otherwise constitute a violation by the Issuer of Section 19 of the Financial Services and 
+Markets Act 2000 (“FSMA”); 
+
+b.  who have communicated or will communicate or who have arranged for the communication or will arrange for the communication of the 
+
+invitations or inducements to engage in investment activities (as referred to in Section 21 of the FSMA) which they have received in connection 
+with the issue or the sale of the Structured Products only under conditions under which Section 21(1) of the FSMA does not apply to the Issuer or 
+the Guarantor; and 
+
+c.  who have complied with and will comply with all the applicable provisions of the FSMA in all actions taken by them in respect of the Structured 
+Products to the extent that they are taken in the United Kingdom, emanate from the United Kingdom or otherwise relate to the United Kingdom. 
+
+Legal Notices 
+ 
+Product documentation 
+Only the Termsheets published at www.derinet.ch along with the associated notices and adjustments shall be legally valid.  
+The original version of the Termsheet is in German; foreign-language versions constitute non-binding translations. The issuer and/or Bank Vontobel AG 
+is entitled to correct spelling mistakes, calculation or other obvious errors in this Termsheet and to make editorial changes, as well as to amend or 
+supplement contradictory or incomplete provisions, without the consent of the investors.  
+Up until the initial fixing date, the product terms designated as such of the "Termsheet (Indication)" are indicative and may be adjusted. The issuer is 
+under no obligation to issue the product. The "Termsheet (Final Terms)", which is usually issued on the date of the initial fixing, contains a summary of 
+the most important final terms and information, and constitutes the "Final Terms" pursuant to art. 21 of the Additional Rules for the Listing of Derivates 
+of SIX Swiss Exchange. Together with the current issuance programme, registered with SIX Swiss Exchange (the „Issuance Programme“), the Final 
+Terms constitute the complete listing prospectus according to the Listing Rules. In the event of discrepancies between this Termsheet and the 
+Issuance Programme, the provisions of the Final Terms shall take precedence.  
+For structured products not listed on the SIX Swiss Exchange, the Termsheet (Indication) constitutes the preliminary simplified prospectus and 
+Termsheet (Final Terms) constitutes the definitive simplified prospectus pursuant to art. 5 of the Federal Act on Collective Investment Schemes (CISA). 
+In addition, reference is also made (with the exception of the provisions authoritative for a listing) to the Issuance Programme, in particular to the 
+detailed information on risks contained therein, to the General Terms and Conditions and to the descriptions of the corresponding product types.  
+During the entire term of the structured product, all documents may be ordered free of charge from Bank Vontobel AG, Financial Products 
+documentation, Bleicherweg 21, 8002 Zurich (telephone: +41 58 283 78 88) and may also be downloaded on the www.derinet.com website. Vontobel 
+explicitly rejects any liability for publications on other Internet platforms. 
+ 
+Further information 
+The list and information shown do not constitute a recommendation concerning the underlying in question; they are for information purposes only and 
+do not constitute either an offer or an invitation to submit an offer, or a recommendation to purchase financial products. Indicative information is 
+provided without warranty. The information is not a substitute for the advice that is indispensable before entering into any derivative transaction. Only 
+investors who fully understand the risks of the transaction to be concluded and who are commercially in a position to bear the losses which may 
+thereby arise should enter into such transactions. Furthermore, we refer to the brochure "Special Risks in Securities Trading" which you can order from 
+us. In connection with the issuing and/or selling of structured products, companies from the Vontobel Group can pay reimbursements to third parties 
+directly or indirectly in different amounts (for details see "Figures for fees and charges”). Such commission is included in the issue price. You can obtain 
+further information from your sales agent upon request. We will be happy to answer any questions you may have concerning our products on +41 58 
+283 78 88 from 08.00 – 17.00 CET on bank business days. Please note that all calls to this number are recorded. By calling this number, your consent to 
+such recording is deemed given. 
+ 
+ 
+
+7/6  Investment Banking / Termsheet (Final Terms) 
+
+Vontobel 
+
+ 
+Material changes since the most recent annual financial statements 
+Subject to the information in this Termsheet and the Issuance Programme, no material changes have occurred in the assets and liabilities, financial 
+position and profits and losses of the issuer/guarantor since the reporting date or the close of the last financial year or the interim financial statements 
+of the issuer and, as the case may be, of the guarantor. 
+ 
+Responsibility for the listing prospectus 
+Bank Vontobel AG takes responsibility for the content of the listing prospectus and hereby declares that, to the best of its knowledge, the information is 
+correct and that no material facts or circumstances have been omitted. 
+Bank Vontobel AG, Zurich 
+
+Zurich, 25 October 2017 
+Bank Vontobel AG, Zurich 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Your customer relationship manager will be happy to answer any questions you may have. 
+
+ 
+
+Bank Vontobel AG  
+
+Banque Vontobel SA,  
+
+Gotthardstrasse 43, CH-8022 Zürich  
+
+Rue du Rhône 31, CH-1204 Genève 
+
+Telefon +41 (0)58 283 71 11 
+
+Internet: http://www.derinet.com 
+ 
+
+Téléphone +41 (0)58 283 26 26 
+
+Internet: http://www.derinet.com 
+
+ 
+
+

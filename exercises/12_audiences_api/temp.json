@@ -1,0 +1,137 @@
+{
+  "id": "5c3130dd5c416100010ab2d7",
+  "query": {
+    "operator": "AND",
+    "children": [
+      {
+        "operator": "OR",
+        "children": [
+          {
+            "operator": "OR",
+            "field": "BIO",
+            "value": ["cat"]
+          },
+          {
+            "operator": "OR",
+            "field": "BIO",
+            "value": ["dog"]
+          }]
+      },
+      {
+        "operator": "AND",
+        "children": [
+          {
+            "operator": "OR",
+            "field": "INTERESTS",
+            "value": [
+              "Animals & Pets"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
+
+
+{
+  "name": "bookaudio",
+  "query": {
+    "operator": "AND",
+    "children": [
+      {
+        "operator": "AND",
+        "children": [
+          {
+            "field": "BIO",
+            "value": [
+              "audiobook"
+            ],
+            "operator": "OR",
+            "id": "0f0fcab1-19d1-49ee-9612-2f11ef2062fd"
+          }
+        ],
+        "id": "3eeb6f22-2425-4946-80a2-2b5a7d3bb77a"
+      }
+    ],
+    "id": "cf859226-22c7-4631-8c0c-095274a3c2c2"
+  }
+}
+
+{
+  "name": "new_audience_pets",
+  "query": {
+    "id": null,
+    "query": {
+      "operator": "AND",
+      "children": [
+        {
+          "operator": "OR",
+          "children": [
+            {
+              "operator": "OR",
+              "field": "BIO",
+              "value": ["dog"]
+            },
+            {
+              "operator": "OR",
+              "field": "BIO",
+              "value": ["cat"]
+            },
+            {
+              "operator": "OR",
+              "field": "BIO",
+              "value": ["puppy"]
+            },
+            {
+              "operator": "OR",
+              "field": "BIO",
+              "value": ["kitten"]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
+
+
+{
+  "name": "steyyyypa",
+  "query": {
+    "operator": "AND",
+    "children": [
+      {
+        "operator": "OR",
+        "children": [
+          {
+            "field": "BIO",
+            "value": [
+              "steypa"
+            ],
+            "operator": "OR",
+            "id": "594bf221-7a1b-4b81-acab-a1b3c8f2e38d"
+          },
+          {
+            "field": "BIO",
+            "value": [
+              "steypu"
+            ],
+            "operator": "OR",
+            "id": "eb2ed80a-6cd5-47e7-ae33-c37ea7faafcd"
+          },
+          {
+            "field": "BIO",
+            "value": [
+              "steypi"
+            ],
+            "operator": "OR",
+            "id": "8d80b0ed-fbeb-45a6-a84c-ab1e5bd87fd8"
+          }
+        ],
+        "id": "47c6c176-df63-4982-949f-e0c50a6cf569"
+      }
+    ],
+    "id": "4accd22e-bc5c-4bc0-b4d1-27b63de52a50"
+  }
+}
