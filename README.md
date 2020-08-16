@@ -5,9 +5,6 @@ read me first
 # introduction
 this repo contains a draft of easy python exercises. the user is assumed to have basic familiarity with python. the exercises present a handful some useful features of python to inepxerienced users. this is not a course in python for newcomers to programming but rather a tool for improving beginning users of python to do basic tasks. some of the exercises are original and some are collected from online resources.
 
-# design goal
-each workshop should 1) tackle some useful aspect of programming with python, 2) be short enough to be discussed with participants in a 1 hour session, and yet 3) complete enough that the participants have all they need to then solve a simple exercise to test their understanding of the feature.
-
 # prerequisites
 ## shell
 we will be working in the unix command line, acessed e.g. via `terminal.app` or `iterm2.app` on a mac computer. there are some basic commands that participants will be expected to know: 
