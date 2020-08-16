@@ -1,12 +1,12 @@
 read me first
 ==== 
-draft of easy python exercises for beginners.
+
 
 # introduction
-these exercises are meant to present some useful features of python to inepxerienced users. they is not aimed at absolute beginners/newcomers to programming. some of the exercises are original and some are collected from online resources.
+this repo contains a draft of easy python exercises. the user is assumed to have basic familiarity with python. the exercises present a handful some useful features of python to inepxerienced users. this is not a course in python for newcomers to programming but rather a tool for improving beginning users of python to do basic tasks. some of the exercises are original and some are collected from online resources.
 
 # design goal
-the design goal of each workshop is that they 1) tackle some useful aspect of programming with python. 2) are short enough to be discussed with participants in a 1 hour session, and yet complete enough that the participants can then complete a simple exercise to test their understanding of the feature. this may be optimistic.
+each workshop should 1) tackle some useful aspect of programming with python, 2) be short enough to be discussed with participants in a 1 hour session, and yet 3) complete enough that the participants have all they need to then solve a simple exercise to test their understanding of the feature.
 
 # prerequisites
 ## shell
@@ -46,4 +46,4 @@ participants in the tutorial can add their solutions/musings/code into a self-na
 a list of documentation and links to helpful sources explaining features discussed in greater detail.
 
 # warning
-there is no sage on this stage. just a guide to the side.
+there is no sage on this stage. merely a guide to the side.
